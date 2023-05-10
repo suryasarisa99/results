@@ -1,0 +1,3271 @@
+[
+   {
+      "regId": "21U41A0401",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0402",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0403",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0404",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "8"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0405",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0406",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0407",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0408",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "9"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "16"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "8"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0409",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0410",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0411",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "A",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0412",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "9"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0413",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0414",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0415",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "C",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0416",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0417",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0418",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "16"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0419",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0420",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "5"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0421",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0422",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0423",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0424",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0425",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0426",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "8"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "10"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0427",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "9"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "14"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0428",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "A",
+            "internals": "21"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "B",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0429",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "9"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0430",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0431",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "9"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0432",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "15"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "7"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "17"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "5"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0433",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0434",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0435",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0436",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0437",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "5"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0438",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0439",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A+",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0440",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "C",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0441",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0442",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0443",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0444",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "16"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0445",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "9"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0446",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0447",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "27"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "7"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "2"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0448",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0449",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0450",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "8"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0451",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0452",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0453",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0454",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0455",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "8"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "4"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "2"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0456",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0457",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "11"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "7"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "16"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "2"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0458",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0459",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0460",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0462",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0463",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0464",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0465",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "6"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0466",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "A+",
+            "internals": "27"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0467",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "6"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0468",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "B",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0469",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "6"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0470",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "A",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0471",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0472",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "8"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "15"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "6"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0473",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "8"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "7"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "10"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "10"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0474",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0475",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "6"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "15"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "7"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0476",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0477",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0478",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "B",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0479",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "20"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "7"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "19"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "2"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0480",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "ABSENT",
+            "internals": "23"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "ABSENT",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "ABSENT",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "ABSENT",
+            "internals": "12"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "ABSENT",
+            "internals": "17"
+         },
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "13"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "ABSENT",
+            "internals": "5"
+         }
+      },
+      "labs": {}
+   },
+   {
+      "regId": "21U41A0481",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "B",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0482",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "11"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0483",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "D",
+            "internals": "8"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0484",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "D",
+            "internals": "16"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "B",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "A",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0485",
+      "subjects": {
+         "MATHEMATICS-II": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "APPLIED PHYSICS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH JAVA": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "NETWORK ANALYSIS": {
+            "grade": "F",
+            "internals": "9"
+         },
+         "BASIC ELECTRICAL ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "APPLIED PHYSICS LABORATORY": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC WORKSHOP LABORATORY": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "BASIC ELECTRICAL ENGINEERING LABORATORY": {
+            "grade": "C",
+            "internals": "10"
+         }
+      }
+   }
+]

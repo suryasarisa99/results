@@ -1,0 +1,1796 @@
+[
+  {
+    "regId": "21U41A4401",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "B",
+        "internals": "24"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "26"
+      },
+      "DATA STRUCTURES": {
+        "grade": "A",
+        "internals": "24"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "A",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4402",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "21"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "26"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "20"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4403",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "F",
+        "internals": "15"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "21"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "19"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "20"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4404",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "19"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "18"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "18"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4405",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "23"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4406",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "18"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "27"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4407",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "B",
+        "internals": "25"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4408",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "23"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "22"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4409",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "20"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "26"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4410",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "17"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "25"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "27"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4411",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "27"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "26"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "A",
+        "internals": "26"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4412",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "28"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "26"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4413",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "20"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "16"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "19"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "20"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4414",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "20"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4415",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "A+",
+        "internals": "25"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "25"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "27"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "B",
+        "internals": "29"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4416",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "23"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4417",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "B",
+        "internals": "26"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4418",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "21"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4419",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "17"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "19"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "17"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4420",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4421",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "17"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "18"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4422",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "17"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4423",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4424",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "28"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "28"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4425",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4426",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "17"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "20"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4427",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "21"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "26"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "22"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4428",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "C",
+        "internals": "25"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4429",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "22"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "22"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "23"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4430",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "20"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "27"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4431",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "A",
+        "internals": "24"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "26"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "25"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "29"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "27"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4432",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "17"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "21"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "22"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "23"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4433",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "F",
+        "internals": "17"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "23"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4434",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "B",
+        "internals": "23"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "16"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "21"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4435",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "F",
+        "internals": "9"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "16"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "14"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "17"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "F",
+        "internals": "15"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4436",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "F",
+        "internals": "15"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "16"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "13"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "17"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "F",
+        "internals": "17"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "12"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4437",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "A+",
+        "internals": "27"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "26"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "26"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "B",
+        "internals": "27"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4438",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "21"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "21"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4439",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "A",
+        "internals": "26"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "C",
+        "internals": "25"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "C",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "20"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4440",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "24"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "16"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "19"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "16"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "17"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "11"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4441",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "20"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "25"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "12"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4442",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "E",
+        "internals": "14"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "F",
+        "internals": "17"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "15"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "E",
+        "internals": "18"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "12"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "12"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4443",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "22"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "DATA STRUCTURES": {
+        "grade": "D",
+        "internals": "21"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "24"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4445",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "D",
+        "internals": "23"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "D",
+        "internals": "24"
+      },
+      "DATA STRUCTURES": {
+        "grade": "F",
+        "internals": "23"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "26"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "21"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4446",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "C",
+        "internals": "23"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "E",
+        "internals": "20"
+      },
+      "DATA STRUCTURES": {
+        "grade": "E",
+        "internals": "18"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "F",
+        "internals": "23"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "23"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A",
+        "internals": "13"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      }
+    }
+  },
+  {
+    "regId": "21U41A4447",
+    "subjects": {
+      "MATHEMATICS-II": {
+        "grade": "A",
+        "internals": "26"
+      },
+      "APPLIED PHYSICS": {
+        "grade": "C",
+        "internals": "22"
+      },
+      "DATA STRUCTURES": {
+        "grade": "B",
+        "internals": "24"
+      },
+      "DIGITAL LOGIC DESIGN": {
+        "grade": "D",
+        "internals": "25"
+      },
+      "PYTHON PROGRAMMING": {
+        "grade": "D",
+        "internals": "23"
+      }
+    },
+    "labs": {
+      "APPLIED PHYSICS LABORATORY": {
+        "grade": "A+",
+        "internals": "14"
+      },
+      "DATA STRUCTURES LABORATORY": {
+        "grade": "A+",
+        "internals": "13"
+      },
+      "PYTHON PROGRAMMING LABORATORY": {
+        "grade": "A+",
+        "internals": "15"
+      }
+    }
+  }
+]

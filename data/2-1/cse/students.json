@@ -1,0 +1,7240 @@
+[
+   {
+      "regId": "21U41A0501",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0502",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0503",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0504",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0505",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0506",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0507",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0508",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0509",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0510",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "30"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0511",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0512",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0513",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0514",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "30"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0515",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0516",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0517",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0518",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0519",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "30"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0520",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0521",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0522",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0523",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0524",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0525",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0526",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0527",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0528",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0529",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0530",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "30"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0531",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0532",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0533",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "19"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0534",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0535",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0536",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0537",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0538",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0539",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0540",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0541",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "29"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0542",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0543",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0544",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0545",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0546",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0547",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0548",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0549",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0550",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0551",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "30"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0552",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0553",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0554",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0555",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0556",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0557",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0558",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0559",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0560",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0561",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0562",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0563",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0564",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0565",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0566",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0567",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0568",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0569",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0570",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "30"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0571",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0572",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0573",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0574",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0575",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0576",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0577",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0578",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0580",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0581",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0582",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0583",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0584",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0585",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0586",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0587",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0588",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0589",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0590",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0591",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0592",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0593",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0594",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0595",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0596",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0597",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0598",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0599",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A1",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A3",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05A8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "16"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B2",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B3",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05B9",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C1",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C2",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "9"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05C9",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D1",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D2",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D3",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05D9",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E1",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E2",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E3",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "30"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05E9",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F0",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F1",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F2",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A",
+            "internals": "28"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F3",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F4",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "29"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F5",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F6",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "A+",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F7",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F8",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A05F9",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OPERATING SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SOFTWARE ENGINEERING": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OBJECT ORIENTED PROGRAMMING THROUGH C++": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OPERATING SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "SOFTWARE ENGINEERING LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "APPLICATIONS OF PYTHON-NUMPY(SKILL ORIEN": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   }
+]

@@ -1,0 +1,3746 @@
+[
+   {
+      "regId": "21U41A0401",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0402",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0403",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0404",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0404",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "11"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0405",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "13"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0406",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0407",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0408",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "12"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0408",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "ABSENT",
+            "internals": "0"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "10"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0409",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0410",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0411",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "B",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0412",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "15"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0412",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "C",
+            "internals": "11"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0413",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0414",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0415",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0416",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0416",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0417",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0418",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0419",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "11"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0420",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0420",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "14"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0421",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "B",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0422",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "A",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0423",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0424",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0424",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0425",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0427",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0428",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "10"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0429",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "A+",
+            "internals": "28"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0429",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "10"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0430",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0431",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0433",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0434",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0434",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0435",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "15"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0436",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "12"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0437",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "13"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0438",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "9"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "18"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0438",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0439",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0440",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0441",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "16"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0442",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0442",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "16"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0443",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0444",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "19"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0445",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "14"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0446",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "17"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "11"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0446",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "C",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0448",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0449",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0450",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0451",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "B",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0451",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0452",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0453",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "19"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0454",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0456",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "A",
+            "internals": "30"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0456",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "15"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0458",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0459",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0460",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0462",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0462",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0463",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0464",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "13"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0465",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "18"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "C",
+            "internals": "11"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0466",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0466",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "11"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0467",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0468",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "B",
+            "internals": "28"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "B",
+            "internals": "30"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0469",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "15"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0470",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0470",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0471",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "29"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0472",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "16"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0473",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "11"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "14"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "14"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0474",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "8"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "10"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0474",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0475",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0476",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0477",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "16"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0478",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "18"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0478",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "B",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0481",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0482",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "19"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0483",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0484",
+      "subjects": {
+         "SIGNALS AND SYSTEMS": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0484",
+      "subjects": {
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "C",
+            "internals": "28"
+         }
+      },
+      "labs": {
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         },
+         "SWITCHING THEORYAND LOGIC DESIGN LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "PYTHON PROGRAMMING": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A0485",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "SWITCHING THEORY AND LOGIC DESIGN": {
+            "grade": "E",
+            "internals": "18"
+         },
+         "SIGNALS AND SYSTEMS": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "RANDOM VARIABLES AND STOCHASTIC PROCESSE": {
+            "grade": "F",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "OOPS THROUGH JAVA LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "ELECTRONIC DEVICES AND CIRCUITS-LAB": {
+            "grade": "A",
+            "internals": "12"
+         }
+      }
+   }
+]

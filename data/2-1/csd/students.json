@@ -1,0 +1,2225 @@
+[
+   {
+      "regId": "21U41A4401",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "A",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4402",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4403",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4404",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4404",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "21"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4405",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "A",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4406",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4407",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4408",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4408",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4409",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "10"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4410",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4411",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4412",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A+",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4412",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4413",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "19"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4414",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4415",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4416",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4416",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4417",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A+",
+            "internals": "29"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4418",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4419",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "30"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4420",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A",
+            "internals": "27"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4420",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4421",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "F",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4422",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4423",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "27"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4424",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4424",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4425",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4426",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "27"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4427",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4428",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4428",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4429",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4430",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "F",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "26"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4431",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "28"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4432",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "A+",
+            "internals": "27"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4432",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4433",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "C",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4434",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "F",
+            "internals": "24"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "13"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4435",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "19"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4436",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "E",
+            "internals": "15"
+         },
+         "MATHEMATICS-III": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "B",
+            "internals": "10"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4436",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "F",
+            "internals": "28"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "21"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "B",
+            "internals": "10"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4437",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "A",
+            "internals": "26"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "A",
+            "internals": "29"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "B",
+            "internals": "29"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4438",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "21"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4439",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "25"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4440",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "21"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "18"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "B",
+            "internals": "11"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "12"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4440",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "E",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "17"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "17"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "F",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4441",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "20"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "C",
+            "internals": "22"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "F",
+            "internals": "20"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "13"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4442",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "MATHEMATICS-III": {
+            "grade": "E",
+            "internals": "22"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "F",
+            "internals": "20"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "E",
+            "internals": "22"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A",
+            "internals": "11"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4443",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICS-III": {
+            "grade": "C",
+            "internals": "24"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "B",
+            "internals": "26"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "23"
+         }
+      },
+      "labs": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4445",
+      "subjects": {
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "22"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "B",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4445",
+      "subjects": {
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "C",
+            "internals": "26"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "B",
+            "internals": "25"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "C",
+            "internals": "27"
+         }
+      },
+      "labs": {
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A+",
+            "internals": "15"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "A",
+            "internals": "0"
+         },
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "15"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4446",
+      "subjects": {
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "24"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "E",
+            "internals": "25"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "B",
+            "internals": "25"
+         }
+      },
+      "labs": {
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "B",
+            "internals": "10"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA LA": {
+            "grade": "A",
+            "internals": "10"
+         },
+         "MOBILE APP DEVELOPMENT": {
+            "grade": "B",
+            "internals": "0"
+         }
+      }
+   },
+   {
+      "regId": "21U41A4447",
+      "subjects": {
+         "FUNDAMENTALS OF DATA SCIENCE": {
+            "grade": "D",
+            "internals": "25"
+         },
+         "MATHEMATICS-III": {
+            "grade": "D",
+            "internals": "23"
+         },
+         "MATHEMATICAL FOUNDATIONS OF COMPUTER SCI": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "DATABASE MANAGEMENT SYSTEMS": {
+            "grade": "D",
+            "internals": "27"
+         },
+         "OBJECT ORIENTED PROGRAMMING WITH JAVA": {
+            "grade": "D",
+            "internals": "26"
+         }
+      },
+      "labs": {
+         "FUNDAMENTALS OF DATA SCIENCE LAB": {
+            "grade": "A+",
+            "internals": "14"
+         },
+         "COMMUNITY SERVICES PROJECT": {
+            "grade": "A+",
+            "internals": "0"
+         },
+         "DATABASE MANAGEMENT SYSTEMS LAB": {
+            "grade": "A+",
+            "internals": "14"
+         }
+      }
+   }
+]
