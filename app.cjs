@@ -7,7 +7,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.static("./public"));
 app.use(
   cors({
-    origin: "https://results-indol.vercel.app", // Allow requests from this specific origin
+    origin: ["https://results-indol.vercel.app", "http://localhost:3000"],
     methods: "GET,POST", // Allow specified HTTP methods
     allowedHeaders: "Content-Type,Authorization", // Allow specified headers
     credentials: true, // Allow sending cookies along with the request (if applicable)
