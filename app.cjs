@@ -16,6 +16,7 @@ app.use(
 
 app.get("/data/:id", async (req, res) => {
   let { id } = req.params;
+  console.log("Checking");
   console.log(id);
   let data1 = await getStudentData(2, 1, id);
   let data2 = await getStudentData(1, 2, id);
