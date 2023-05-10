@@ -5,7 +5,10 @@ let app = express();
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static("./public"));
-
+app.cors({
+  origin: "https://results-indol.vercel.app",
+  methods: "POST, GET",
+});
 app.get("/data/:id", async (req, res) => {
   let { id } = req.params;
   console.log(id);
