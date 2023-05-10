@@ -5,10 +5,15 @@ let app = express();
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static("./public"));
-app.cors({
-  origin: "https://results-indol.vercel.app",
-  methods: "POST, GET",
-});
+app.use(
+  cors({
+    origin: "https://results-indol.vercel.app", // Allow requests from this specific origin
+    methods: "GET,POST", // Allow specified HTTP methods
+    allowedHeaders: "Content-Type,Authorization", // Allow specified headers
+    credentials: true, // Allow sending cookies along with the request (if applicable)
+  })
+);
+
 app.get("/data/:id", async (req, res) => {
   let { id } = req.params;
   console.log(id);
